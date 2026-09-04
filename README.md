@@ -7,8 +7,7 @@ I focus on **genomics** and **transcriptomics**, using Python, R, and SQL to cle
 ---
 
 ### 🔭 Currently
-- Gradu
-- Working on [your current project — e.g. an RNA-seq differential expression pipeline]
+- Master's degree in Bioinformatics
 - Learning how machine learning and statistical methods apply to biological data
 
 ### 🛠️ Tools I use
@@ -21,8 +20,8 @@ I focus on **genomics** and **transcriptomics**, using Python, R, and SQL to cle
 
 ### 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=kaderhoussein&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaderhoussein&layout=compact)
 
 ### 🌱 Learning next
 

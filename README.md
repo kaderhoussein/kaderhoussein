@@ -18,11 +18,11 @@ I focus on **genomics** and **transcriptomics**, using Python, R, and SQL to cle
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub stats
+''' ### 📊 GitHub stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaderhoussein&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaderhoussein&layout=compact)
-
+'''
 ### 🌱 Learning next
 
 Deep learning applied to biological sequences, and stronger statistical foundations for genomics.
